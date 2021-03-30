@@ -4,3 +4,4 @@
 # JSON Packages
 package.JSON
 package-lock.json
+.json
